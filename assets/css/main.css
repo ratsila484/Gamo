@@ -680,10 +680,7 @@ section,
 }
 
 @media screen and (min-width: 375px){
-  .hero{
-    height: ;
-  }
-}
+ }
 .hero .carousel-container {
   display: flex;
   justify-content: center;
